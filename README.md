@@ -1,6 +1,6 @@
 # Primeros pasos con React 🚀 - Nuevas Tecnologías 2
 
-## Mock de e-commerce _Hello World_
+### Mock de e-commerce _Hello World_
 
 <br/>
 
@@ -36,7 +36,7 @@ Conocimientos básicos de JavaScript (ES6+)
 
 Clonar este repositorio
 ```bash
-git clone
+git clone https://github.com/mflorenciadn/introduccion-react
 ```
 Entrar en el directorio
 ```bash
