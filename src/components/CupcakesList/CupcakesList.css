@@ -1,8 +1,8 @@
-.ProductsList-Container {
+.CupcakesList-Container {
     margin: -30vh 5% 10vh 5%;
 }
 
-.ProductsList-Title {
+.CupcakesList-Title {
     font-family: monospace;
     color: #255D68;
     text-shadow: 0 0 0.2em #eceaea, 0 0 0.2em #eceaea,
@@ -11,7 +11,7 @@
     font-weight: 500;
 }
 
-.ProductsList-Grid {
+.CupcakesList-Grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     grid-gap: 20px;

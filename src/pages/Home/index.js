@@ -1,4 +1,4 @@
-import ProductsList from "../../components/ProductsList";
+import CupcakesList from "../../components/CupcakesList";
 import Banner from "../../components/Banner";
 import products from "../../data/products";
 import "./Home.css";
@@ -6,7 +6,7 @@ import "./Home.css";
 const Home = () => (
   <>
     <Banner />
-    <ProductsList products={products} />
+    <CupcakesList products={products} />
   </>
 );
 
